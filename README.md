@@ -1,4 +1,4 @@
-# UIC Campus Geographic Graph System
+# UIC Campus Geographic Graph System 
 
 A C++ program that builds a geographic graph from OpenStreetMap data and computes the **shortest path between two buildings on the UIC campus** once you specify the start and end locations.
 
@@ -10,7 +10,7 @@ The UIC Campus Geographic Graph System prompts users to input their given .osm f
 
 This application allows user to:
 - Input their starting and ending UIC buildings on campus
-- Automatically compute the shortest path using a Dijkstra's algorithm
+- Automatically compute the shortest path to and from
 
 ## Features
 
